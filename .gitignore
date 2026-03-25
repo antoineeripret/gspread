@@ -9,6 +9,8 @@ tests/creds.json
 
 # virtualenv
 env/
+.venv 
+uv.lock
 
 # tox
 .tox/
